@@ -3,7 +3,7 @@ TiCircularSlider
 
 
 Circular slider with many customizations.
-Wrapper module for AndroidCircularSeekBar.
+Wrapper module for HoloCircleSeekBar.
 
 ![demo](images/demo.gif)
 
