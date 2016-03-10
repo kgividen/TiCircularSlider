@@ -42,7 +42,7 @@ public class View extends TiUIView {
 		hcsb.setOnSeekBarChangeListener(new OnCircleSeekBarChangeListener() {
 				@Override
         public void onProgressChanged(HoloCircleSeekBar view, int newProgress, boolean fromUser){
-					Log.d(LCAT,"Progress:" + view.getValue());
+//					Log.d(LCAT,"Progress:" + view.getValue());
 					notifyOfChange(view.getValue());
 				}
 
